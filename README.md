@@ -8,4 +8,4 @@
 
 All pages of the site were hosted on infinityfree servers with some embedded pages that would be hosted on a flask server. The flask server (for the chat) would need to be run locally at this stage.
 
-Find our site by clicking _[here](http://neospace.infinityfreeapp.com/)_ or visit [neospace.infinityfreeapp.com](http://neospace.infinityfreeapp.com/).
+Find our site by clicking _[here](https://neo-space.org/)_ or visit [neo-space.org](https://neo-space.org).
